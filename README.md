@@ -15,3 +15,11 @@ Mock circuit diagram:
 
 Mock circuit diagram:
 ![image](https://github.com/RooRoo6080/arduino-arcade-games/assets/67977174/61ec9412-32b5-440b-a5ca-f7f8466378d2)
+
+## 1-dimensional [Pong](https://en.wikipedia.org/wiki/Pong)
+ - 1D pong means that you play by hitting your corresponding button at the right time. There are no moving paddles
+ - restart game by pressing restart button
+ - 5 flashes correspond to the side of the winning player
+
+Mock circuit diagram:
+![image](https://github.com/user-attachments/assets/7e41aaa5-0037-43d4-b306-c0ab90438811)
